@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hej, jestem Marcel!
 
-<!--
-**ParzY1/ParzY1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Jestem początkującym programistą full-stack z Polski, który aktualnie pracuje zdalnie jako Junior Frontend Developer. Pracuję głównie w JavaScript/TypeScript, Angularze i Reactcie, ale interesuję się też backendem i cyberbezpieczeństwem. 
 
-Here are some ideas to get you started:
+🔧 Moje technologie:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: `HTML`, `CSS`, `Tailwind CSS`, `JavaScript`, `TypeScript`, `React`, `Angular`, `jQuery`.
+- Backend: `Node.js`, `Java`, `Python`, `C# (.NET)`, `SQL`.
+- Narzędzia: `Git`, `GitHub`, `VSCode`, `Visual Studio`, `PyCharm`, `IntelliJ`, `Android Studio`, `JIRA`, `Slack`, `Teams`, `Figma`.
+- Inne: `UI/UX`, `API`, `SQL Server`, `Cyberbezpieczeństwo`, `Cisco Networking`, `Testowanie oprogramowania`.
+
+🌱 Uczę się nowych rzeczy każdego dnia — aktualnie rozwijam się w kierunku lepszego zrozumienia architektury aplikacji, DevOps i wzorców projektowych.
+
+## 🎓 Edukacja
+
+**Technik Programista**  
+🎓 Szkoła średnia o profilu informatycznym  
+📍 Polska  
+- Tworzenie aplikacji desktopowych (WPF, .NET) i webowych (HTML, CSS, JS)
+- Udział w egzaminie zawodowym INF.03, INF.04 (Strony internetowe, Bazy danych, Serwery, Aplikacje frontendowe w Angular/React, Testowanie Aplikacji)
+- Ukończone kursy Cisco Networking Academy (Cyberbezpieczeństwo, Sieci)
+
+🧠 Zainteresowania:
+- Aplikacje webowe i mobilne
+- Bezpieczeństwo sieci
+- Motoryzacja
+
+📫 Kontakt:
+- E-mail: **marcelparzyszek@gmail.com**
+- GitHub: [github.com/ParzY](https://github.com/ParzY1)
+
+📌 Ciekawe projekty:
+- 🧩 **Prone** – Webowa aplikacja do zarządzania ruchem sieci dns.
+- 📋 **Prone-marketing site** – Strona marketingowa dla produktu.
+
+---
+
+🔧 *Ten profil cały czas się rozwija – zaglądaj tu częściej!*
