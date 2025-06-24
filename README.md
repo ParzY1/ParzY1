@@ -16,7 +16,6 @@
 **Technik Programista**  
 🎓 Szkoła średnia o profilu informatycznym  
 📍 Polska Toruń - 2020-2025
-- Tworzenie aplikacji desktopowych (WPF, .NET) i webowych (HTML, CSS, JS)
 - Udział w egzaminie zawodowym INF.03, INF.04 (Strony internetowe, Bazy danych, Serwery, Aplikacje frontendowe w Angular/React, Testowanie Aplikacji)
 - Ukończone kursy Cisco Networking Academy (Cyberbezpieczeństwo, Sieci)
 
