@@ -4,13 +4,11 @@
 
 
 🔧 Moje technologie:
+ * Frontend: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Angular, jQuery.
+ * Backend: Node.js, Java, Python, C# (.NET), C, C++, SQL, MySQL.
+ * Narzędzia: Git, GitHub, VSCode, Visual Studio, PyCharm, IntelliJ, Android Studio, JIRA, Slack, Teams, Figma.
+ * Inne: UI/UX, API, SQL Server,Projektowanie Sieci oraz konfiguracja, Testowanie oprogramowania, Dokumentacja techniczna.
 
-- Frontend: `HTML`, `CSS`, `Tailwind CSS`, `JavaScript`, `TypeScript`, `React`, `Angular`, `jQuery`.
-- Backend: `Node.js`, `Java`, `Python`, `C# (.NET)`, `SQL`.
-- Narzędzia: `Git`, `GitHub`, `VSCode`, `Visual Studio`, `PyCharm`, `IntelliJ`, `Android Studio`, `JIRA`, `Slack`, `Teams`, `Figma`.
-- Inne: `UI/UX`, `API`, `SQL Server`, `Cyberbezpieczeństwo`, `Cisco Networking`, `Testowanie oprogramowania`.
-
-🌱 Uczę się nowych rzeczy każdego dnia — aktualnie rozwijam się w kierunku lepszego zrozumienia architektury aplikacji, DevOps i wzorców projektowych.
 
 ## 🎓 Edukacja
 
