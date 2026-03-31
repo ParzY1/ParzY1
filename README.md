@@ -1,6 +1,7 @@
 # 👋 Hej, jestem Marcel!
 
-🚀 Jestem początkującym programistą full-stack z Polski, który aktualnie pracuje zdalnie jako Junior Frontend Developer. Pracuję głównie w JavaScript/TypeScript, Angularze i Reactcie, ale interesuję się też backendem i cyberbezpieczeństwem. 
+🚀 🚀 Jestem studentem Cyberbezpieczeństwa i teleinformatyki na Politechnice Bydgoskiej oraz pracuję jako tester oprogramowania. Mam doświadczenie w budowaniu stron internetowych, aplikacji webowych i mobilnych. Obecnie rozwijam się w obszarze cyberbezpieczeństwa i pentestów.
+
 
 🔧 Moje technologie:
 
@@ -49,9 +50,5 @@
 - E-mail: **marcelparzyszek@gmail.com**
 - GitHub: [github.com/ParzY](https://github.com/ParzY1)
 - LinkedIn:  [linkedin.com/in/marcel-parzyszek](https://www.linkedin.com/in/marcel-parzyszek-761612345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-📌 Ciekawe projekty:
-- 🧩 **Prone** – Webowa aplikacja do zarządzania ruchem sieci dns.
-- 📋 **Prone-marketing site** – Strona marketingowa dla produktu.
 
 ---
