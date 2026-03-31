@@ -23,6 +23,23 @@
 - Ukończenie egzaminu zawodowego: **INF.03**, **INF.04** (Strony internetowe, Bazy danych, Serwery, Aplikacje frontendowe w Angular/React, Testowanie Aplikacji)
 - Ukończone kursy Cisco Networking Academy (Cyberbezpieczeństwo, Sieci)
 
+## 💼 Doświadczenie zawodowe
+
+* **Tester oprogramowania** | **LC_Soft** 
+  *(Lis 2025 – Obecnie)*
+
+* **Programista** | **Garage IT Sp. z o.o.** 
+  *(Lip 2024 – Lut 2025)*
+  * **Technologie:** C#, HTML5, Aplikacja webowa, Strona internetowa.
+
+* **Programista front-end (Praktyka)** | **Garage IT Sp. z o.o.** 
+  *(Kwi 2024 – Maj 2024)*
+  * **Technologie:** Projektowanie baz danych, Flutter, Aplikacja mobilna.
+
+* **Programista front-end (Praktyka)** | **Sohbi Craft Poland Sp. z o.o.** 
+  *(Kwi 2023 – Maj 2023)*
+  * **Technologie:** C#, Java, CMS
+
 🧠 Zainteresowania:
 - Cybersecurity
 - Bezpieczeństwo sieci
@@ -31,12 +48,10 @@
 📫 Kontakt:
 - E-mail: **marcelparzyszek@gmail.com**
 - GitHub: [github.com/ParzY](https://github.com/ParzY1)
-- LinkedIn [linkedin.com/in/marcel-parzyszek](https://www.linkedin.com/in/marcel-parzyszek-761612345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn:  [linkedin.com/in/marcel-parzyszek](https://www.linkedin.com/in/marcel-parzyszek-761612345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 📌 Ciekawe projekty:
 - 🧩 **Prone** – Webowa aplikacja do zarządzania ruchem sieci dns.
 - 📋 **Prone-marketing site** – Strona marketingowa dla produktu.
 
 ---
-
-🔧 *Ten profil cały czas się rozwija – zaglądaj tu częściej!*
