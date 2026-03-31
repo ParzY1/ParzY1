@@ -13,20 +13,25 @@
 
 ## 🎓 Edukacja
 
-**Technik Programista**  
-🎓 Szkoła średnia o profilu informatycznym  
+**Studia inżynierskie**
+🎓 Politechnika Bydgoska - Cyberbezpieczeństwo i teleinformatyka
+📍 Polska, Bydgoszcz - 2025-obecnie
+
+**Szkoła średnia**
+🎓 ZSMEiE - Technik Programista
 📍 Polska Toruń - 2021-2025
-- Ukończenie egzaminu zawodowego INF.03, INF.04 (Strony internetowe, Bazy danych, Serwery, Aplikacje frontendowe w Angular/React, Testowanie Aplikacji)
+- Ukończenie egzaminu zawodowego: **INF.03**, **INF.04** (Strony internetowe, Bazy danych, Serwery, Aplikacje frontendowe w Angular/React, Testowanie Aplikacji)
 - Ukończone kursy Cisco Networking Academy (Cyberbezpieczeństwo, Sieci)
 
 🧠 Zainteresowania:
-- Aplikacje webowe i mobilne
+- Cybersecurity
 - Bezpieczeństwo sieci
 - Motoryzacja
 
 📫 Kontakt:
 - E-mail: **marcelparzyszek@gmail.com**
 - GitHub: [github.com/ParzY](https://github.com/ParzY1)
+- LinkedIn [linkedin.com/in/marcel-parzyszek](https://www.linkedin.com/in/marcel-parzyszek-761612345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 📌 Ciekawe projekty:
 - 🧩 **Prone** – Webowa aplikacja do zarządzania ruchem sieci dns.
