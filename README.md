@@ -1,6 +1,6 @@
 # 👋 Hej, jestem Marcel!
 
-🚀 🚀 Jestem studentem Cyberbezpieczeństwa i teleinformatyki na Politechnice Bydgoskiej oraz pracuję jako tester oprogramowania. Mam doświadczenie w budowaniu stron internetowych, aplikacji webowych i mobilnych. Obecnie rozwijam się w obszarze cyberbezpieczeństwa i pentestów.
+🚀  Jestem studentem Cyberbezpieczeństwa i teleinformatyki na Politechnice Bydgoskiej oraz pracuję jako tester oprogramowania. Mam doświadczenie w budowaniu stron internetowych, aplikacji webowych i mobilnych. Obecnie rozwijam się w obszarze cyberbezpieczeństwa i pentestów.
 
 
 🔧 Moje technologie:
