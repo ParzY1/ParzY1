@@ -46,7 +46,6 @@
 
 📫 Kontakt:
 - E-mail: **marcelparzyszek@gmail.com**
-- GitHub: [github.com/ParzY](https://github.com/ParzY1)
 - LinkedIn:  [linkedin.com/in/marcel-parzyszek](https://www.linkedin.com/in/marcel-parzyszek-761612345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
